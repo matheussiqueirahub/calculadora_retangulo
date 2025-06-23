@@ -1,2 +1,1 @@
-# calculadora_retangulo
-Calculadora que calcula a area do Retangulo, através dos dados enviados pelo usuario.
+Este projeto é uma simples calculadora de área e perímetro de um retângulo, desenvolvida em Python. Ideal para fins educacionais, prática de lógica de programação e aplicações matemáticas básicas.
